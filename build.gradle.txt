@@ -1,0 +1,14 @@
+android {
+    namespace 'com.virk.pakradiostations'
+    // ... [Keep default configurations]
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.9.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'com.google.android.exoplayer:exoplayer-core:2.19.1'
+    implementation 'com.google.android.exoplayer:exoplayer-ui:2.19.1'
+    implementation 'com.gauravk.audiovisualizer:audiovisualizer:0.9.2'
+    implementation 'com.github.bumptech.glide:glide:4.15.1'
+}
