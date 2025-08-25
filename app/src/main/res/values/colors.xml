@@ -1,4 +1,8 @@
 <resources>
+    <color name="ic_launcher_background">#FF0066</color>
+    <color name="brand_primary">#FF2D6B</color>
+</resources>
+<resources>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="black">#FF000000</color>

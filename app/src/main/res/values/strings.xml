@@ -1,3 +1,28 @@
 <resources>
+    <string name="app_name">Online Radio</string>
+    <string name="search_hint">Search stations</string>
+    <string name="tab_discover">Discover</string>
+    <string name="tab_countries">Countries</string>
+    <string name="tab_favorites">Favorites</string>
+    <string name="tab_recents">Recents</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="retry">Retry</string>
+    <string name="add_station">Add Station</string>
+    <string name="station_name">Station name</string>
+    <string name="station_url">Stream URL</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="sleep_timer">Sleep timer</string>
+    <string name="car_mode">Car mode</string>
+    <string name="tool">Tool</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="buffering">Buffering…</string>
+    <string name="no_results">No results</string>
+    <string name="permissions_notification_rationale">Allow notifications to show playback controls.</string>
+</resources>
+<resources>
     <string name="app_name">Pak Radio Stations</string>
 </resources>
